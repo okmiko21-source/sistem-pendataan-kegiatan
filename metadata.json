@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Pendataan Kegiatan",
+  "description": "Sistem profesional untuk mencatat, mengelola, dan mendokumentasikan kegiatan organisasi yang terintegrasi dengan Google Sheets dan Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
